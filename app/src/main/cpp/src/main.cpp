@@ -13,7 +13,7 @@
 #include "ReversibleHooks/memutils.h"
 
 // Log
-#include "Vendor/Log/Log.h"
+#include "Code/Log/Log.h"
 
 // Trace
 #include "Vendor/Trace/StackTrace.h"

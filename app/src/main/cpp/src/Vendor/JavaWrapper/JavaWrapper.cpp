@@ -5,7 +5,7 @@
 #include "JavaWrapper.h"
 
 #include "../../StdInc.h"
-#include "../Log/Log.h"
+#include "../../Code/Log/Log.h"
 
 extern "C" JavaVM *javaVM;
 

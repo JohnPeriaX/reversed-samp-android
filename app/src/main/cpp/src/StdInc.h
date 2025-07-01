@@ -39,7 +39,7 @@
 #include <jni.h>
 #include <android/log.h>
 
-#include <log/log.h>
+#include "Code/Log/Log.h"
 
 // ReversibleHooks
 #include "ReversibleHooks/hook.h"

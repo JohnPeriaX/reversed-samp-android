@@ -37,7 +37,7 @@ file(GLOB_RECURSE SOURCES
         # Vendor - NOTSA
         ${CMAKE_CURRENT_LIST_DIR}/Vendor/ReversibleHooks/*.cpp
         ${CMAKE_CURRENT_LIST_DIR}/Vendor/JavaWrapper/*.cpp
-        ${CMAKE_CURRENT_LIST_DIR}/Vendor/Log/*.cpp
+        Code/Log/*.cpp
         ${CMAKE_CURRENT_LIST_DIR}/Vendor/Trace/*.cpp
 )
 

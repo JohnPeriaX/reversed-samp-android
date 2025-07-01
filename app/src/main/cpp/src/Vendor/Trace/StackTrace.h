@@ -9,7 +9,7 @@
 #include "../../StdInc.h"
 
 // Log
-#include "../Log/Log.h"
+#include "../../Code/Log/Log.h"
 
 #if VERSION_x32
 #define PRINT_CRASH_STATES(context) \
